@@ -1,5 +1,4 @@
 # Torres de Hanoi con recursividad
-# Cumple con numeración de pasos y total de movimientos
 
 paso = 0  # variable global para contar pasos
 
